@@ -9,19 +9,25 @@ The main metrics calculated over the dataset are:
 - Regional Analysis - Analyzing the variation of product sales over different regoins.
 
 ## DataSet Description
+The attributes of the UK retail dataset is shown in the table below with a total record of 541909 records.
+
+<img width="704" height="482" alt="image" src="https://github.com/user-attachments/assets/f6421d43-a2f8-47c3-8786-18c235ac51d0" />
+
+Prior to the analysis of the dataset, several data cleaning steps were taken which are recorded in *this repo.*
 
 ## Executive Summary
 
 
 ## Insights and findings
 
-### Sales Analysis
-- **Gross Merchendise Value (GMV)** - The total revenue generated from all sales transactions amounted to **$10,631,048.74**, reflecting the overall scale of business activity and serving as a key indicator of marketplace performance.
-  
-- **Average Order Value (AOV)**: The global average AOV was **$532.64**, with significant variation across regions. The highest AOVs were recorded in **Singapore ($3,039.90)** and **Netherlands ($3,036.66)**, indicating strong bulk purchasing behavior in these markets. Countries such as Australia and Japan also showed higher-than-average AOVs, suggesting a focus on high-value orders or wholesale transactions. In contrast, domestic sales in the **United Kingdom** had an AOV of **$498.98**, reflecting smaller but more frequent purchases.
-This regional analysis highlights how international customers tend to place larger orders, while UK-based buyers exhibit steady, lower-value transactions, aligning with the dataset’s wholesale nature.
+### Sales Trends
 
-- **Monthly Sales Trends** - It was observed that the highest sales occurred in **November 2011**, reaching approximately $1.5M, while the lowest sales were recorded in **February 2011** at around $0.52M. The sales exhibited a steady upward trend starting from August 2011, peaking in November 2011, followed by a sharp decline in December 2011. Additionally, there was a consistent drop from December 2010 to February 2011, whereas the period between May 2011 and August 2011 showed relatively stable sales performance.
+- The overall Gross Merchandise Value (GMV) was recorded at $10,631,048.74, with November 2011 contributing approximately $1.5M, accounting for 14.11% of the total sales during the period from December 2010 to December 2011.
+  
+- The sales exhibited a steady upward trend starting from August 2011, peaking in November 2011, followed by a sharp decline in December 2011. It is obsereved that **DOTCOM POSTAGE** gave the highest revenue during this period suggesting that a large number of people ordered stuff online. The top physical product which made high sales is **Rabbit Night Light.**
+  
+- Between December 2010 and February 2011, sales experienced a notable decline, likely due to post-holiday season effects and reduced customer engagement. However, sales began to recover gradually from March 2011, maintaining steady growth through the mid-year months.
+
   <img width="1121" height="552" alt="image" src="https://github.com/user-attachments/assets/2a92d9d1-d141-4ff5-bb88-006d52bad515" />
 
 ### Product Analysis
