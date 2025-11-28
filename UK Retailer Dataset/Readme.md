@@ -15,8 +15,6 @@ The attributes of the UK retail dataset is shown in the table below with a total
 
 Prior to the analysis of the dataset, several data cleaning steps were taken which are recorded in *this repo.*
 
-## Executive Summary
-
 
 ## Insights and findings
 
@@ -50,3 +48,4 @@ Prior to the analysis of the dataset, several data cleaning steps were taken whi
 ## Project Structure
 
 ## Author
+Aleena khan - Data Analyst
